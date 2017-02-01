@@ -1,3 +1,4 @@
+// class name must be the same as the java file name
 // public - this should be available to all other classes
 // class - blueprint
 // main - required in every java program. function that always executes first
