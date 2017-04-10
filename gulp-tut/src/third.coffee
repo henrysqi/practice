@@ -1,4 +1,0 @@
-# third
-
-myThirdFunction = ->
-  'third'
